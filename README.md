@@ -1,5 +1,4 @@
-# Exercício Realizado durante o curso da Trybe
-### Exercício da Seção 7, dia 3, do Módulo de Front-End do curso.
+# Exercício da Seção 7, dia 3, do Módulo de Front-End, realizado durante o curso da Trybe.
 
 ## Tecnologias Utilizadas
 1. HTML
